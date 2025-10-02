@@ -3,11 +3,11 @@
 
 # For installing new packages command 'install.packages()'
 
-install.packages("haven")
-install.packages("dplyr")
-install.packages("tidyr")
-install.packages("stringr")
-install.packages("labelled")
+# install.packages("haven")
+# install.packages("dplyr")
+# install.packages("tidyr")
+# install.packages("stringr")
+# install.packages("labelled")
 
 ### Libraries
 library(haven)
